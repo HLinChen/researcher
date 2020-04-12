@@ -34,11 +34,13 @@ I am currently a second year master student in pattern recognition and intellige
 - Sheng Xu, **Hanlin Chen**, Xuan Gong, Baochang Zhang, David Doermann. [Binarized Backbone Search for Real-Time Object Detection], on submission to IJCAI 2020.
 
 ## Education
-* **Beihang University <p align="right">Beijing, China</p>**
-    Master of Pattern Recognition and Intelligent System <p align="right">Sep 2018 - Present</p>
+* **Beihang University Beijing, China**
 
-* **Shenyang Aerospace University <p align="right">Shenyang, China</p>**
-    Bachelor of Aircraft Design and Engineering <p align="right">Sep 2012 - Jun 2018</p>
+    Master of Pattern Recognition and Intelligent System Sep 2018 - Present
+
+* **Shenyang Aerospace University, Shenyang, China**
+    
+    Bachelor of Aircraft Design and Engineering Sep 2012 - Jun 2018
 
 
 ## Awards
