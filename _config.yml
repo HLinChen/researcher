@@ -1,24 +1,24 @@
-title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+title: Hanlin Chen (陈翰林)
+url: "https://hlinchen.github.io"
+baseurl: "/hlchen"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
 tracking_id: #
 
-footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+# footer: yes
+# footer_url: "https://github.com/ankitsultana"
+# footer_text: "Page design by Ankit Sultana"
 
 sass:
     style: compressed
     sass_dir: _sass
 
-nav:
- - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
+# nav:
+#  - name: "About"
+#    link: "/researcher/"
+#  - name: "Resume"
+#    link: "resume.pdf"
+#  - name: "Contact"
+#    link: "contact"
