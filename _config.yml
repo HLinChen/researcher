@@ -17,13 +17,13 @@ sass:
 
 remote_theme: ankitsultana/researcher@gem
 
-# nav:
-#  - name: "About"
-#    link: "/hlchen/"
-#  - name: "Curriculum Vitae"
-#    link: "cv.pdf"
-# - name: "GitHub"
-#   link: https://github.com/HLinChen
+nav:
+- name: "About"
+  link: "/hlchen/"
+- name: "Curriculum Vitae"
+  link: "cv.pdf"
+- name: "GitHub"
+  link: https://github.com/HLinChen
 
 #  - name: "Contact"
 #    link: "contact"
