@@ -3,9 +3,9 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [hlchen@buaa.edu.cn](mailto:hlchen@buaa.edu.cn)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [+86-17812032728](tel:+86-17812032728)
 
 ---
 
