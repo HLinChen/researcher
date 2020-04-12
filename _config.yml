@@ -14,8 +14,9 @@ tracking_id: #
 sass:
     style: compressed
     sass_dir: _sass
-    
+
 remote_theme: ankitsultana/researcher@gem
+
 # nav:
 #  - name: "About"
 #    link: "/researcher/"

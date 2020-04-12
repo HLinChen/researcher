@@ -2,19 +2,17 @@
 layout: default
 ---
 
+[Beihang University](https://www.buaa.edu.cn), China.
+
 ## About Me
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
-
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
-
-## Research Interest
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+I am currently a second year master student in pattern recognition and intelligent system at [Beihang University](https://www.buaa.edu.cn). My mentor is Prof. Baochang Zhang. My research interests are in machine learning and computer vision, especially in neural architecture search (NAS), model compression and pruning, unsupervised learning, and adversarial deep learning.
 
 ## Publications
+
+- **Hanlin Chen**, Li'an Zhuo, Baochang Zhang, Xiawu Zheng, Jianzhuang Liu, David Doermann, Rongrong Ji. Binarized Neural Architecture Search. AAAI, 2020.[[CODES](https://github.com/theFool32/PPBA)]
 
 1. F.Bar, J.Doe: Effects of having a placeholder of a name
 2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
