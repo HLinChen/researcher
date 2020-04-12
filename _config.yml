@@ -20,7 +20,9 @@ remote_theme: ankitsultana/researcher@gem
 nav:
  - name: "About"
    link: "/hlchen/"
- - name: "Resume"
+ - name: "Curriculum Vitae"
    link: "cv.pdf"
+- name: "GitHub"
+  link: https://github.com/HLinChen
 #  - name: "Contact"
 #    link: "contact"
