@@ -17,10 +17,10 @@ sass:
 
 remote_theme: ankitsultana/researcher@gem
 
-# nav:
-#  - name: "About"
-#    link: "/researcher/"
-#  - name: "Resume"
-#    link: "resume.pdf"
+nav:
+ - name: "About"
+   link: "/hlchen/"
+ - name: "Resume"
+   link: "cv.pdf"
 #  - name: "Contact"
 #    link: "contact"
