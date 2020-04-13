@@ -47,6 +47,14 @@ I am currently a second year master student in pattern recognition and intellige
 
 * **Liaoning Provincial Government Scholarship, 2016.**
 
+## Skills
+
+- **Spoken Languages**: English
+
+- **Programming Languages**: Python, C/C++, matlab
+
+- **Technologies and Frameworks**: Pytorch, Tensorflow, Linux
+
 ## Contact
 
 **Institution**: School of Automation Science and Electrical Engineering, Beihang University, China
