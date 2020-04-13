@@ -43,13 +43,12 @@ I am currently a second year master student in pattern recognition and intellige
 
     Bachelor of Aircraft Design and Engineering, Sep 2012 - Jun 2018
 
-
-  |                       |               |
+  <!-- |                       |               |
   |:----------------------|--------------:|
   |**Beihang University** | Beijing, China|
   |Master of Pattern Recognition and Intelligent System | Sep 2018 - Present|
   |**Shenyang Aerospace University** | Shenyang, China|
-  |Bachelor of Aircraft Design and Engineering | Sep 2012 - Jun 2018|
+  |Bachelor of Aircraft Design and Engineering | Sep 2012 - Jun 2018| -->
 
 ## Awards
 
