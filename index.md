@@ -8,7 +8,7 @@ layout: default
 
 <img class="profile-picture" src="chl.jpg">
 
-I am currently a second year master student in pattern recognition and intelligent system at [Beihang University](https://www.buaa.edu.cn). My mentor is Prof. [Baochang Zhang](https://scholar.google.com/citations?user=WH0J_34AAAAJ&hl=en). My research interests are in machine learning and computer vision, especially in neural architecture search (NAS), model quantization and pruning, unsupervised learning and adversarial deep learning.
+I am currently a second year master student in pattern recognition and intelligent system at [Beihang University](https://www.buaa.edu.cn). My supervisor is Prof. [Baochang Zhang](https://scholar.google.com/citations?user=WH0J_34AAAAJ&hl=en). My research interests are in machine learning and computer vision, especially in neural architecture search (NAS), model quantization and pruning, unsupervised learning and adversarial deep learning.
 
 ## Journal & Conference Papers
 
