@@ -12,7 +12,7 @@ I am currently a second year master student in pattern recognition and intellige
 
 ## Journal & Conference Papers
 
-- **Hanlin Chen**, Li'an Zhuo, Baochang Zhang, Xiawu Zheng, Jianzhuang Liu, David Doermann, Rongrong Ji. [Binarized Neural Architecture Search](https://arxiv.org/pdf/1911.10862v1.pdf). AAAI, 2020. [CODES](https://github.com/HLinChen/BNAS)
+- **Hanlin Chen**, Li'an Zhuo, Baochang Zhang, Xiawu Zheng, Jianzhuang Liu, David Doermann, Rongrong Ji. [Binarized Neural Architecture Search](https://arxiv.org/pdf/1911.10862v1.pdf). AAAI, 2020. [[CODES](https://github.com/HLinChen/BNAS)]
 
 - Li'an Zhuo, Baochang Zhang, Linlin Yang, **Hanlin Chen**, Qixiang Ye, David Doermann, Rongrong Ji, Guodong Guo. Cogradient Descent for Bilinear Optimization. CVPR, 2020.
 
@@ -42,6 +42,14 @@ I am currently a second year master student in pattern recognition and intellige
 * **Shenyang Aerospace University, Shenyang, China**
 
     Bachelor of Aircraft Design and Engineering, Sep 2012 - Jun 2018
+
+
+  |                       |               |
+  |:----------------------|--------------:|
+  |**Beihang University** | Beijing, China|
+  |Master of Pattern Recognition and Intelligent System | Sep 2018 - Present|
+  |**Shenyang Aerospace University** | Shenyang, China|
+  |Bachelor of Aircraft Design and Engineering | Sep 2012 - Jun 2018|
 
 ## Awards
 
