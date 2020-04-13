@@ -16,7 +16,7 @@ I am currently a second year master student in pattern recognition and intellige
 
 - Li'an Zhuo, Baochang Zhang, Linlin Yang, **Hanlin Chen**, Qixiang Ye, David Doermann, Rongrong Ji, Guodong Guo. Cogradient Descent for Bilinear Optimization. CVPR, 2020.
 
-- Sheng Xu, **Hanlin Chen**, et al. [Efficient Block Pruning based on kernel and feature stablization](https://ieeexplore.ieee.org/document/8946001). Digital Image Computing: Techniques and Applications, 2019. (DICTA 2019)
+- Sheng Xu, **Hanlin Chen**, Kexin Liu, Jinhu Lii, Baochang Zhang. [Efficient Block Pruning based on kernel and feature stablization](https://ieeexplore.ieee.org/document/8946001). Digital Image Computing: Techniques and Applications, 2019. (DICTA 2019)
 
 - Chunlei Liu, Wenrui Ding, Yu Hu, **Hanlin Chen**, Baochang Zhang, Shuo Liu. [Guided Convolutional Network](https://www.researchgate.net/publication/336051683_Guided_Convolutional_Network). 13th International Conference on Distributed Smart Cameras. (ICDSC 2019)
 
