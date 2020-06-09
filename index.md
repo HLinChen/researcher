@@ -14,7 +14,7 @@ I am currently a second year master student in pattern recognition and intellige
 
 - **Hanlin Chen**, Li'an Zhuo, Baochang Zhang, Xiawu Zheng, Jianzhuang Liu, David Doermann, Rongrong Ji. [Binarized Neural Architecture Search](https://arxiv.org/pdf/1911.10862v1.pdf). AAAI, 2020. [[CODES](https://github.com/HLinChen/BNAS)]
 
-- Li'an Zhuo, **Hanlin Chen**, Linlin Yang, Yanjun Zhu, Chen Chen, Baochang Zhang, David Doermann. CP-NAS: Child-Parent Neural Achitecture Search for 1-bit CNNs, IJCAI 2020.
+- Li’an Zhuo, Baochang Zhang, **Hanlin Chen**, Linlin Yang, Chen Chen, Yanjun Zhu, David Doermann. CP-NAS: Child-Parent Neural Achitecture Search for 1-bit CNNs, IJCAI 2020.
 
 - Li'an Zhuo, Baochang Zhang, Linlin Yang, **Hanlin Chen**, Qixiang Ye, David Doermann, Rongrong Ji, Guodong Guo. Cogradient Descent for Bilinear Optimization. CVPR, 2020.
 
