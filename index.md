@@ -12,6 +12,8 @@ I am currently a second year master student in pattern recognition and intellige
 
 ## Journal & Conference Papers
 
+- **Hanlin Chen**, Baochang Zhang, Song Xue, Xuan Gong, Hong Liu, Rongrong Ji, David Doermann. Anti-Bandit Neural Architecture Search for Model Defense. ECCV, 2020.
+
 - **Hanlin Chen**, Li'an Zhuo, Baochang Zhang, Xiawu Zheng, Jianzhuang Liu, David Doermann, Rongrong Ji. [Binarized Neural Architecture Search](https://arxiv.org/pdf/1911.10862v1.pdf). AAAI, 2020. [[CODES](https://github.com/HLinChen/BNAS)]
 
 - Li’an Zhuo, Baochang Zhang, **Hanlin Chen**, Linlin Yang, Chen Chen, Yanjun Zhu, David Doermann. CP-NAS: Child-Parent Neural Achitecture Search for 1-bit CNNs, IJCAI 2020.
@@ -22,17 +24,35 @@ I am currently a second year master student in pattern recognition and intellige
 
 - Chunlei Liu, Wenrui Ding, Yu Hu, **Hanlin Chen**, Baochang Zhang, Shuo Liu. [Guided Convolutional Network](https://www.researchgate.net/publication/336051683_Guided_Convolutional_Network). 13th International Conference on Distributed Smart Cameras. (ICDSC 2019)
 
-  
-- **Hanlin Chen**, Baochang Zhang, Song Xue, Xuan Gong, Hong Liu, Rongrong Ji, David Doermann. Anti-Bandit Neural Architecture Search for Model Defense, on submission to ECCV 2020.
+
+- **Hanlin Chen**, Xuan Gong, Baochang Zhang, Chunyu Xie, David Doermann. Fast and Unsupervised Neural Architecture Evolution for Visual Representation Learning, on submission to NeurIPS.
 
 - **Hanlin Chen**, Li'an Zhuo, Baochang Zhang, Xiawu Zheng, Jianzhuang Liu, Rongrong Ji, David Doermann, Guodong Guo. Binarized Neural Architecture Search for Efficient Object Recognition, on submission to IJCV.
 
-- **Hanlin Chen**, Xudong Zhang, et al. Efficient Facial Landmark Localization based on Binarized Neural Networks, on submission to Transactions on Intelligent Systems and Technology. (TIST)
+- **Hanlin Chen**, Xudong Zhang, et al. Efficient Facial Landmark Localization based on Binarized Neural Networks, on submission to Electronics.
+
+- Xuan Gong, **Hanlin Chen**, Sheng Xu, Baochang Zhang, David Doermann. Bandit Network Architecture Search, on submission to BMVC 2020.
+
+<!-- - Sheng Xu, Xuan Gong, **Hanlin Chen**, Baochang Zhang, David Doermann. BDetNAS: A Fast Binarized Detection Neural Architecture Search, on submission to BMVC 2020. -->
+
+- Sheng Xu, **Hanlin Chen**, Xuan Gong, Kexin Liu, Jinhu Lü, Baochang Zhang. Efficient Structured Pruning based on Deep Feature Stabilization, on submission to Neural Computing and Applications. (NCAA)
+
+## Research Experience
+* **Alibaba DAMO Academy, Beijing, China**
+
+  - Research on neural architecture search (NAS).
 
 
-<!-- - Xuan Gong, **Hanlin Chen**, Sheng Xu, Baochang Zhang, Jialian Wu, David Doermann. Bandit Network Architecture Search, on submission to IJCAI 2020.
+* **Beihang University, Beijing, China**
 
-- Sheng Xu, **Hanlin Chen**, Xuan Gong, Baochang Zhang, David Doermann. Binarized Backbone Search for Real-Time Object Detection , on submission to IJCAI 2020. -->
+  - Research on neural architecture search (NAS).
+
+  - Research on model quantization and pruning.
+
+  - Research on unsupervised learning.
+
+  - Research on adversarial training.
+
 
 ## Education
 
